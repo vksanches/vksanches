@@ -2,7 +2,7 @@
 <hr>
  <div style="display: inline_block" >
   <a href="https://github.com/vksanches">
-  <img height="160em" width="400px" src="https://github-readme-stats.vercel.app/api?username=vksanches&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/><img height="160em" width="475px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vksanches&layout=compact&langs_count=7&theme=dark"/>
+  <img height="200px" width="400px" src="https://github-readme-stats.vercel.app/api?username=vksanches&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/><img height="200px" width="475px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vksanches&layout=compact&langs_count=7&theme=dark"/>
 </div>
   <hr>
  <h3>Tecnologias que estou me desenvolvendo</h3>
